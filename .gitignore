@@ -1,0 +1,7 @@
+site/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.superpowers/
+.DS_Store

@@ -1,0 +1,57 @@
+site_name: 前置部署工程师
+site_description: 人工智能时代的客户价值交付秘籍
+site_author: 范冰
+site_url: https://ningg.github.io/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer/
+
+repo_url: https://github.com/ningg/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer
+repo_name: ningg/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer
+
+docs_dir: chapters
+site_dir: site
+
+theme:
+  name: material
+  language: zh
+  features:
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - toc.follow
+    - search.highlight
+    - content.tabs.link
+
+plugins:
+  - search:
+      lang:
+        - zh
+        - en
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.superfences
+  - pymdownx.details
+
+nav:
+  - 首页: index.md
+  - 第 1 章 · FDE 的崛起: 01-第1章-FDE的崛起.md
+  - 第 2 章 · 解决正确的问题: 02-第2章-解决正确的问题.md
+  - 第 3 章 · 赢得客户: 03-第3章-赢得客户.md
+  - 第 4 章 · 激活部署: 04-第4章-激活部署.md
+  - 第 5 章 · 守住续约: 05-第5章-守住续约.md
+  - 第 6 章 · 扩大收入: 06-第6章-扩大收入.md
+  - 第 7 章 · 规模化复制: 07-第7章-规模化复制.md
+  - 第 8 章 · 完整案例集: 08-第8章-完整案例集.md
+  - 后记 · FDE 的职业道德: 09-后记-FDE的职业道德.md
+  - 附录 A · 常用指标: 10-附录A-FDE应当关注的常用指标.md
+  - 附录 B · 人物与团队: 11-附录B-FDE人物与团队名单.md
+  - 附录 C · 案例索引与出处: 12-附录C-全书案例索引与资料出处.md
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/ningg/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer
