@@ -12,11 +12,11 @@
 
 **亚历克斯·卡普（Alex Karp）** — Palantir 首席执行官。「法国侍者」行为模型的提出者：反对唯唯诺诺的接单式工程文化。
 
-**Barry** — 前 Palantir 前置部署工程师，《理解前置部署工程》一文作者。FDE 模式最重要的一篇「内部人警告」：成本、混乱与倦怠的真实账本。
+**Barry** — 前 Palantir 前线部署工程师，《理解前线部署工程》一文作者。FDE 模式最重要的一篇「内部人警告」：成本、混乱与倦怠的真实账本。
 
 **泰德·梅布里（Ted Mabrey）/ 纳比尔·库雷希（Nabeel Qureshi）** — Palantir 系写作者，对 Palantir 运作方式有深度公开书写。
 
-**科林·贾维斯（Colin Jarvis）** — OpenAI 前置部署工程团队负责人，从零组建 OpenAI FDE 建制的人。
+**科林·贾维斯（Colin Jarvis）** — OpenAI 前线部署工程团队负责人，从零组建 OpenAI FDE 建制的人。
 
 **布拉德·莱特凯普（Brad Lightcap）** — OpenAI 首席运营官，「部署公司」的主导者。
 
@@ -32,7 +32,7 @@
 
 **Palantir FDE 组织** — 模式的发明者与完成形态。「回声-三角洲-平台」三角，训练营机器。
 
-**OpenAI 前置部署工程团队** — 2024 年组建，全球分布式，约翰迪尔与西班牙对外银行的操盘者；2026 年升级为「部署公司」。
+**OpenAI 前线部署工程团队** — 2024 年组建，全球分布式，约翰迪尔与西班牙对外银行的操盘者；2026 年升级为「部署公司」。
 
 **Anthropic 应用人工智能团队** — 以「应用人工智能工程师」名义组建的 FDE 建制，FIS 金融犯罪智能体的共建者；2026 年与黑石等组建企业人工智能服务合资公司。
 
@@ -50,18 +50,18 @@
 
 1. YC Lightcone 播客：《给人工智能创业公司的 FDE 打法——鲍勃·麦格鲁访谈》（2025 年 9 月）——模式第一讲述者的 51 分钟复盘。
 2. a16z：《用利润率换护城河》（Trading Margin for Moat）——商业模式分析的标杆。
-3. Barry：《理解前置部署工程》（Understanding Forward Deployed Engineering）——内部人的冷静警告。
+3. Barry：《理解前线部署工程》（Understanding Forward Deployed Engineering）——内部人的冷静警告。
 4. 麻省理工学院 NANDA 实验室：《生成式人工智能的鸿沟：2025 年商业人工智能现状》（The GenAI Divide）——「95% 失败率」的出处，FDE 存在理由的数据地基。
 5. The New Stack：《为什么 OpenAI 和 Anthropic 都在抢建 FDE 团队》（2026 年 5 月）。
-6. CIO.com：《Anthropic 的金融智能体，暴露了前置部署工程师这个新瓶颈》（2026 年 5 月）——买方视角与高德纳预警。
-7. Latent Space 播客：《前置部署工程师与软件工程的未来》（2026 年 7 月）——Sierra 视角。
-8. Palantir 官方博客：《Palantir 前置部署工程师的一天》（2020 年）——官方自述，有中文译本流传。
+6. CIO.com：《Anthropic 的金融智能体，暴露了前线部署工程师这个新瓶颈》（2026 年 5 月）——买方视角与高德纳预警。
+7. Latent Space 播客：《前线部署工程师与软件工程的未来》（2026 年 7 月）——Sierra 视角。
+8. Palantir 官方博客：《Palantir 前线部署工程师的一天》（2020 年）——官方自述，有中文译本流传。
 9. OpenFDE 社区（open-fde.com）——从业者的开源共同体，岗位与公司图谱。
 10. 36 氪《中国 To B 软件，走出亏损式增长的陷阱》、陈果 George 公众号 FDE 系列文章——中国语境的必读对照。
 
 ## 四、薪酬与求职参考
 
-- GetPerspective：《2026 前置部署工程师薪酬报告》（1200 个样本）——头部实验室中级 FDE 年总薪酬中位数约 38.5 万美元、资深约 61 万美元、首席超过 120 万美元。
+- GetPerspective：《2026 前线部署工程师薪酬报告》（1200 个样本）——头部实验室中级 FDE 年总薪酬中位数约 38.5 万美元、资深约 61 万美元、首席超过 120 万美元。
 - fdenest.com / fde.academy / sundeepteki.org —— 面试准备与职业路径的三家专题站点。
 - Levels.fyi —— Palantir 等职位的实时薪酬数据。
 - 招聘启事本身是最好的教科书：OpenAI、Anthropic、Decagon、Harvey、Scale AI 的 FDE 招聘启事，值得逐字研读。
