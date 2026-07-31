@@ -12,13 +12,37 @@ site_dir: site
 theme:
   name: material
   language: zh
+  palette:
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: 切换至浅色模式
+    - scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: 切换至深色模式
+  font:
+    text: Noto Sans SC
+    code: JetBrains Mono
   features:
+    - navigation.instant
+    - navigation.tracking
     - navigation.sections
     - navigation.top
     - navigation.footer
+    - navigation.path
     - toc.follow
     - search.highlight
+    - search.suggest
+    - content.code.copy
     - content.tabs.link
+
+extra_css:
+  - stylesheets/extra.css
 
 plugins:
   - search:
@@ -37,18 +61,20 @@ markdown_extensions:
 
 nav:
   - 首页: index.md
-  - 第 1 章 · FDE 的崛起: 01-第1章-FDE的崛起.md
-  - 第 2 章 · 解决正确的问题: 02-第2章-解决正确的问题.md
-  - 第 3 章 · 赢得客户: 03-第3章-赢得客户.md
-  - 第 4 章 · 激活部署: 04-第4章-激活部署.md
-  - 第 5 章 · 守住续约: 05-第5章-守住续约.md
-  - 第 6 章 · 扩大收入: 06-第6章-扩大收入.md
-  - 第 7 章 · 规模化复制: 07-第7章-规模化复制.md
-  - 第 8 章 · 完整案例集: 08-第8章-完整案例集.md
-  - 后记 · FDE 的职业道德: 09-后记-FDE的职业道德.md
-  - 附录 A · 常用指标: 10-附录A-FDE应当关注的常用指标.md
-  - 附录 B · 人物与团队: 11-附录B-FDE人物与团队名单.md
-  - 附录 C · 案例索引与出处: 12-附录C-全书案例索引与资料出处.md
+  - 正文:
+    - 第 1 章 · FDE 的崛起: 01-第1章-FDE的崛起.md
+    - 第 2 章 · 解决正确的问题: 02-第2章-解决正确的问题.md
+    - 第 3 章 · 赢得客户: 03-第3章-赢得客户.md
+    - 第 4 章 · 激活部署: 04-第4章-激活部署.md
+    - 第 5 章 · 守住续约: 05-第5章-守住续约.md
+    - 第 6 章 · 扩大收入: 06-第6章-扩大收入.md
+    - 第 7 章 · 规模化复制: 07-第7章-规模化复制.md
+    - 第 8 章 · 完整案例集: 08-第8章-完整案例集.md
+    - 后记 · FDE 的职业道德: 09-后记-FDE的职业道德.md
+  - 附录:
+    - 附录 A · 常用指标: 10-附录A-FDE应当关注的常用指标.md
+    - 附录 B · 人物与团队: 11-附录B-FDE人物与团队名单.md
+    - 附录 C · 案例索引与出处: 12-附录C-全书案例索引与资料出处.md
 
 extra:
   generator: false
