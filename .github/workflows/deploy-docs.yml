@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - main
-      - ningg
   workflow_dispatch:
 
 permissions:

@@ -36,7 +36,7 @@
 
 ## 阅读方式
 
-- **网站阅读（推荐）**：[https://ningg.github.io/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer/](https://ningg.github.io/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer/)
+- **网站阅读（推荐）**：[https://xdash.github.io/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer/](https://xdash.github.io/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer/)
 - **GitHub 按章阅读**：点击下方目录，直接在 GitHub 上按章节阅读
 - **整本下载**：[前置部署工程师.pdf](前置部署工程师.pdf)（根目录合并版，95 页；如有更新以章节 Markdown 为准）
 

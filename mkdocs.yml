@@ -1,10 +1,10 @@
 site_name: 前置部署工程师
 site_description: 人工智能时代的客户价值交付秘籍
 site_author: 范冰
-site_url: https://ningg.github.io/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer/
+site_url: https://xdash.github.io/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer/
 
-repo_url: https://github.com/ningg/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer
-repo_name: ningg/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer
+repo_url: https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer
+repo_name: xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer
 
 docs_dir: chapters
 site_dir: site
@@ -54,4 +54,4 @@ extra:
   generator: false
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/ningg/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer
+      link: https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer

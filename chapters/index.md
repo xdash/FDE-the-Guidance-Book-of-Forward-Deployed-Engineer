@@ -22,8 +22,8 @@
 
 ## 其他获取方式
 
-- **整本 PDF**：[前置部署工程师.pdf](https://github.com/ningg/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer/blob/main/前置部署工程师.pdf)（如有更新以章节 Markdown 为准）
-- **源码仓库**：[ningg/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/ningg/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer)
+- **整本 PDF**：[前置部署工程师.pdf](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer/blob/main/前置部署工程师.pdf)（如有更新以章节 Markdown 为准）
+- **源码仓库**：[xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer)
 
 ## 版权声明
 
