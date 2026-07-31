@@ -1,0 +1,267 @@
+/* -------------------------------------------------------------------------
+   FDE Guide — dark tech theme overrides for Material for MkDocs
+   ------------------------------------------------------------------------- */
+
+:root {
+  --fde-accent: #22d3ee;
+  --fde-accent-soft: rgba(34, 211, 238, 0.14);
+  --fde-accent-border: rgba(34, 211, 238, 0.35);
+  --fde-header: #0b1220;
+  --fde-surface: #111827;
+  --fde-surface-raised: #1a2332;
+  --fde-text-muted: #94a3b8;
+
+  --md-primary-fg-color: #0b1220;
+  --md-primary-fg-color--light: #1e293b;
+  --md-primary-fg-color--dark: #020617;
+  --md-accent-fg-color: #22d3ee;
+  --md-accent-fg-color--transparent: rgba(34, 211, 238, 0.12);
+  --md-typeset-a-color: #22d3ee;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-default-bg-color: #0b1220;
+  --md-default-bg-color--light: #111827;
+  --md-default-bg-color--lighter: #1a2332;
+  --md-default-bg-color--lightest: #243044;
+  --md-default-fg-color: rgba(241, 245, 249, 0.92);
+  --md-default-fg-color--light: rgba(226, 232, 240, 0.72);
+  --md-default-fg-color--lighter: rgba(148, 163, 184, 0.55);
+  --md-default-fg-color--lightest: rgba(148, 163, 184, 0.22);
+  --md-code-bg-color: #152033;
+  --md-code-fg-color: #e2e8f0;
+  --md-footer-bg-color: #070d18;
+  --md-footer-bg-color--dark: #050a12;
+  --md-typeset-table-color: rgba(148, 163, 184, 0.22);
+}
+
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: #0f172a;
+  --md-primary-fg-color--light: #1e293b;
+  --md-primary-fg-color--dark: #020617;
+  --md-accent-fg-color: #0891b2;
+  --md-accent-fg-color--transparent: rgba(8, 145, 178, 0.1);
+  --md-typeset-a-color: #0e7490;
+}
+
+/* Header ------------------------------------------------------------------ */
+
+.md-header {
+  background: linear-gradient(180deg, #0f1a2e 0%, var(--fde-header) 100%);
+  box-shadow: 0 1px 0 var(--fde-accent-border), 0 8px 24px rgba(0, 0, 0, 0.35);
+}
+
+.md-header__title {
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  font-size: 0.95rem;
+}
+
+.md-header__button.md-logo {
+  margin-right: 0.2rem;
+}
+
+.md-tabs {
+  background: var(--fde-surface);
+  border-bottom: 1px solid rgba(34, 211, 238, 0.12);
+}
+
+/* Sidebar navigation ------------------------------------------------------ */
+
+.md-nav--primary .md-nav__title {
+  background: transparent;
+  color: var(--fde-text-muted);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  height: auto;
+  line-height: 1.4;
+  padding: 1rem 0.8rem 0.4rem;
+  box-shadow: none;
+}
+
+.md-nav--primary .md-nav__item--section > .md-nav__link {
+  color: var(--fde-accent);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin-top: 0.85rem;
+  opacity: 0.9;
+}
+
+.md-nav--primary .md-nav__link {
+  border-radius: 0.4rem;
+  margin: 0.1rem 0.35rem;
+  padding: 0.4rem 0.65rem;
+  font-size: 0.78rem;
+  line-height: 1.4;
+  transition: background 0.15s ease, color 0.15s ease;
+}
+
+.md-nav--primary .md-nav__link:hover,
+.md-nav--primary .md-nav__link:focus {
+  background: var(--fde-accent-soft);
+}
+
+.md-nav--primary .md-nav__item--active > .md-nav__link {
+  background: var(--fde-accent-soft);
+  color: var(--fde-accent);
+  font-weight: 650;
+  box-shadow: inset 2px 0 0 var(--fde-accent);
+}
+
+[data-md-color-scheme="slate"] .md-sidebar {
+  background: linear-gradient(180deg, rgba(15, 26, 46, 0.55) 0%, rgba(11, 18, 32, 0.2) 100%);
+}
+
+.md-sidebar--primary {
+  border-right: 1px solid rgba(34, 211, 238, 0.1);
+}
+
+.md-sidebar--secondary {
+  border-left: 1px solid rgba(34, 211, 238, 0.1);
+}
+
+/* Right TOC --------------------------------------------------------------- */
+
+.md-nav--secondary .md-nav__title {
+  background: transparent;
+  box-shadow: none;
+  color: var(--fde-text-muted);
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  height: auto;
+  line-height: 1.4;
+  padding: 1rem 0.6rem 0.5rem;
+}
+
+.md-nav--secondary .md-nav__link {
+  border-radius: 0.35rem;
+  font-size: 0.74rem;
+  margin: 0.05rem 0.25rem;
+  padding: 0.28rem 0.55rem;
+  border-left: 2px solid transparent;
+}
+
+.md-nav--secondary .md-nav__link--active,
+.md-nav--secondary .md-nav__link:focus,
+.md-nav--secondary .md-nav__link:hover {
+  background: var(--fde-accent-soft);
+  border-left-color: var(--fde-accent);
+  color: var(--fde-accent);
+}
+
+/* Content typography ------------------------------------------------------ */
+
+.md-typeset {
+  font-size: 0.82rem;
+  line-height: 1.75;
+}
+
+.md-typeset h1 {
+  font-weight: 750;
+  letter-spacing: -0.02em;
+  font-size: 1.85em;
+  margin-bottom: 0.7em;
+  padding-bottom: 0.35em;
+  border-bottom: 1px solid rgba(34, 211, 238, 0.18);
+}
+
+.md-typeset h2 {
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  font-size: 1.4em;
+  margin-top: 1.6em;
+  padding-bottom: 0.2em;
+  border-bottom: 1px solid rgba(148, 163, 184, 0.16);
+}
+
+.md-typeset h3 {
+  font-weight: 680;
+  font-size: 1.15em;
+  margin-top: 1.35em;
+}
+
+.md-typeset h4 {
+  font-weight: 650;
+  color: var(--fde-text-muted);
+}
+
+.md-typeset blockquote {
+  border-left: 3px solid var(--fde-accent);
+  background: var(--fde-accent-soft);
+  border-radius: 0 0.4rem 0.4rem 0;
+  padding: 0.55rem 0.9rem;
+  color: inherit;
+}
+
+.md-typeset hr {
+  border-bottom-color: rgba(34, 211, 238, 0.18);
+}
+
+.md-typeset table:not([class]) {
+  font-size: 0.78rem;
+  border: 1px solid rgba(34, 211, 238, 0.12);
+  border-radius: 0.45rem;
+  overflow: hidden;
+}
+
+.md-typeset table:not([class]) th {
+  background: var(--fde-surface-raised);
+  font-weight: 650;
+}
+
+.md-typeset code {
+  border-radius: 0.3rem;
+  font-size: 0.9em;
+}
+
+.md-typeset .admonition,
+.md-typeset details {
+  border-radius: 0.5rem;
+  box-shadow: none;
+  border-width: 0 0 0 3px;
+}
+
+/* Search ------------------------------------------------------------------ */
+
+.md-search__form {
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(34, 211, 238, 0.18);
+  border-radius: 0.45rem;
+}
+
+.md-search__form:hover {
+  background: rgba(255, 255, 255, 0.09);
+}
+
+/* Footer & misc ----------------------------------------------------------- */
+
+.md-footer {
+  border-top: 1px solid rgba(34, 211, 238, 0.12);
+}
+
+.md-top {
+  border: 1px solid var(--fde-accent-border);
+  background: var(--fde-surface-raised);
+  color: var(--fde-accent);
+}
+
+.md-top:hover {
+  background: var(--fde-accent);
+  color: #0b1220;
+}
+
+.md-content__inner {
+  margin-bottom: 2.5rem;
+}
+
+@media screen and (min-width: 76.25em) {
+  .md-nav--primary .md-nav__item--nested .md-nav__list {
+    padding-left: 0.15rem;
+  }
+}
