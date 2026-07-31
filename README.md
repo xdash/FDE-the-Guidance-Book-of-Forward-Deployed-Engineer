@@ -2,6 +2,8 @@
 
 范冰 著 · 免费公开全文，欢迎在线阅读与分享
 
+> 🌐 **English translation available:** [English edition →](en/README.md) （社区英文译本 / community translation）
+
 ---
 
 ## 关于本书
