@@ -13,18 +13,18 @@ theme:
   name: material
   language: zh
   palette:
-    - scheme: slate
-      primary: custom
-      accent: custom
-      toggle:
-        icon: material/weather-sunny
-        name: 切换至浅色模式
     - scheme: default
       primary: custom
       accent: custom
       toggle:
         icon: material/weather-night
         name: 切换至深色模式
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: 切换至浅色模式
   font:
     text: Noto Sans SC
     code: JetBrains Mono
