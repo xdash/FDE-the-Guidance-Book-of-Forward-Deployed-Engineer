@@ -33,6 +33,7 @@
   --md-footer-bg-color: #070d18;
   --md-footer-bg-color--dark: #050a12;
   --md-typeset-table-color: rgba(148, 163, 184, 0.22);
+  --md-typeset-a-color: #22d3ee;
 }
 
 [data-md-color-scheme="default"] {
