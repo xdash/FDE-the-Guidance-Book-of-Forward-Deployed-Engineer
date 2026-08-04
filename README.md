@@ -6,7 +6,8 @@
 
 ## 阅读方式 (Reading Options)
 
-- **中文原版 (Chinese Original)**：点击下方目录，直接在 GitHub 上按章节阅读
+- **在线阅读**：点击下方目录，直接在 GitHub 上按章节阅读
+- **整本下载**：[前线部署工程师.pdf](前线部署工程师.pdf)（根目录合并版，95 页；如有更新以章节 Markdown 为准）
 - **English Version**: [English Translation](en/README.md)
 - **தமிழ் பதிப்பு (Tamil Version)**: [Tamil Translation](ta/README.md)
 
