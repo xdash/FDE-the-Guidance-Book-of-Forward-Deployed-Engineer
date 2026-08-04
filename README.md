@@ -4,6 +4,8 @@
 
 ---
 
+## 阅读方式 (Reading Options)
+
 ## 关于本书
 
 2025 年夏天，我的朋友圈被同一个数字刷屏：95%。
@@ -34,7 +36,6 @@
 
 范冰，网名 XDash，互联网从业者，长期关注技术趋势与商业方法论。本书为个人研究整理，不代表任何机构立场。
 
-## 阅读方式 (Reading Options)
 
 - **中文原版 (Chinese Original)**：点击下方目录，直接在 GitHub 上按章节阅读
 - **English Version**: [English Translation](en/README.md)
