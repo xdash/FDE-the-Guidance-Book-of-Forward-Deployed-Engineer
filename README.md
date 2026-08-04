@@ -34,10 +34,11 @@
 
 范冰，网名 XDash，互联网从业者，长期关注技术趋势与商业方法论。本书为个人研究整理，不代表任何机构立场。
 
-## 阅读方式
+## 阅读方式 (Reading Options)
 
-- **在线阅读**：点击下方目录，直接在 GitHub 上按章节阅读
-- **整本下载**：[前线部署工程师.pdf](前线部署工程师.pdf)（根目录合并版，95 页；如有更新以章节 Markdown 为准）
+- **中文原版 (Chinese Original)**：点击下方目录，直接在 GitHub 上按章节阅读
+- **English Version**: [English Translation](en/README.md)
+- **தமிழ் பதிப்பு (Tamil Version)**: [Tamil Translation](ta/README.md)
 
 ## 目录
 
