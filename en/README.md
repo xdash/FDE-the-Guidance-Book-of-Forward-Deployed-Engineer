@@ -37,24 +37,23 @@ Fan Bing, online alias XDash, an internet professional who has long focused on t
 ## How to Read
 
 - **Read Online**: Click the table of contents below to read chapter by chapter directly on GitHub
-- **Download Full Book**: [Forward Deployed Engineer.pdf](前线部署工程师.pdf) (Combined version in the root directory, 95 pages; if updated, the chapter Markdowns shall prevail)
 
 ## Table of Contents
 
 | Chapter | Content |
 | --- | --- |
-| [Chapter 1](01-第1章-FDE的崛起.md) | The Rise of FDE |
-| [Chapter 2](02-第2章-解决正确的问题.md) | Solving the Right Problem |
-| [Chapter 3](03-第3章-赢得客户.md) | Winning Customers |
-| [Chapter 4](04-第4章-激活部署.md) | Activating Deployment |
-| [Chapter 5](05-第5章-守住续约.md) | Securing Renewals |
-| [Chapter 6](06-第6章-扩大收入.md) | Expanding Revenue |
-| [Chapter 7](07-第7章-规模化复制.md) | Scaling and Replication |
-| [Chapter 8](08-第8章-完整案例集.md) | Complete Case Collection |
-| [Afterword](09-后记-FDE的职业道德.md) | Professional Ethics of an FDE |
-| [Appendix A](10-附录A-FDE应当关注的常用指标.md) | Common Metrics FDEs Should Monitor |
-| [Appendix B](11-附录B-FDE人物与团队名单.md) | List of FDE Figures and Teams |
-| [Appendix C](12-附录C-全书案例索引与资料出处.md) | Complete Case Index and Source References |
+| [Chapter 1](01-Chapter-1-The-Rise-of-FDE.md) | The Rise of FDE |
+| [Chapter 2](02-Chapter-2-Solving-the-Right-Problem.md) | Solving the Right Problem |
+| [Chapter 3](03-Chapter-3-Winning-Customers.md) | Winning Customers |
+| [Chapter 4](04-Chapter-4-Activating-the-Deployment.md) | Activating Deployment |
+| [Chapter 5](05-Chapter-5-Securing-the-Renewal.md) | Securing Renewals |
+| [Chapter 6](06-Chapter-6-Expanding-Revenue.md) | Expanding Revenue |
+| [Chapter 7](07-Chapter-7-Scalable-Replication.md) | Scaling and Replication |
+| [Chapter 8](08-Chapter-8-Complete-Case-Studies.md) | Complete Case Collection |
+| [Afterword](09-Epilogue-The-Professional-Ethics-of-an-FDE.md) | Professional Ethics of an FDE |
+| [Appendix A](10-Appendix-A-Common-Metrics-FDEs-Should-Track.md) | Common Metrics FDEs Should Monitor |
+| [Appendix B](11-Appendix-B-List-of-FDE-Figures-and-Teams.md) | List of FDE Figures and Teams |
+| [Appendix C](12-Appendix-C-Case-Index-and-Data-Sources.md) | Complete Case Index and Source References |
 
 ## Copyright Statement
 
