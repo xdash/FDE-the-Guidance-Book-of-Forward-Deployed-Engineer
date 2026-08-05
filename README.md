@@ -32,13 +32,18 @@
 
 ## 关于作者
 
-范冰，网名 XDash，互联网从业者，长期关注技术趋势与商业方法论。本书为个人研究整理，不代表任何机构立场。
+范冰，网名 XDash，互联网从业者，《增长黑客》作者，www.zengzhang.ai 主理人，长期关注技术趋势与商业方法论。本书为个人研究整理，不代表任何机构立场。
+
+联系方式：
+
+- 微信：ifanbing（注明「FDE」）
+- 邮箱：xdash@duck.com
 
 ## 阅读方式
 
 - **网站阅读（推荐）**：[https://xdash.github.io/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer/](https://xdash.github.io/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer/)
 - **GitHub 按章阅读**：点击下方目录，直接在 GitHub 上按章节阅读
-- **整本下载**：[前置部署工程师.pdf](前置部署工程师.pdf)（根目录合并版，95 页；如有更新以章节 Markdown 为准）
+- **整本下载**：[前线部署工程师（FDE）v1.0.6.pdf](前线部署工程师（FDE）v1.0.6.pdf)（根目录合并版；如有更新以章节 Markdown 为准）
 
 ## 目录
 
