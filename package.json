@@ -1,7 +1,7 @@
 {
   "name": "fde-handbook",
   "private": true,
-  "version": "1.0.6",
+  "version": "1.0.11",
   "type": "module",
   "scripts": {
     "docs:dev": "vitepress dev .",

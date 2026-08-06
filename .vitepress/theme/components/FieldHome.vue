@@ -36,7 +36,7 @@ const stages = [
         <p class="hero-lead">一本写给人工智能创业者、工程师与交付负责人的前线手册。从找对问题，到赢得客户、激活部署与规模化复制。</p>
         <div class="hero-actions">
           <a class="signal-button" :href="route('/01-第1章-FDE的崛起')">开始阅读 <span>→</span></a>
-          <a class="text-button" :href="route('/前线部署工程师（FDE）v1.0.6.pdf')" download>下载完整 PDF ↘</a>
+          <a class="text-button" :href="route('/前线部署工程师（FDE）v1.0.11.pdf')" download>下载完整 PDF ↘</a>
         </div>
       </div>
       <div class="hero-stats" aria-label="本书关键数据">

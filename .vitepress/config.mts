@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 const chapters = [
+  { text: '00 / 自序', link: '/00-自序' },
   { text: '01 / FDE 的崛起', link: '/01-第1章-FDE的崛起' },
   { text: '02 / 解决正确的问题', link: '/02-第2章-解决正确的问题' },
   { text: '03 / 赢得客户', link: '/03-第3章-赢得客户' },
@@ -38,7 +39,7 @@ export default defineConfig({
     logo: { src: '/mark.svg', alt: 'FDE Handbook' },
     siteTitle: 'FDE前线部署工程师指南',
     nav: [
-      { text: '阅读手册', link: '/01-第1章-FDE的崛起', activeMatch: '^/0[1-8]-' },
+      { text: '阅读手册', link: '/00-自序', activeMatch: '^/0[0-8]-' },
       { text: '完整案例', link: '/08-第8章-完整案例集' },
       { text: '指标工具箱', link: '/10-附录A-FDE应当关注的常用指标' },
       { text: '关于', link: '/about' }
