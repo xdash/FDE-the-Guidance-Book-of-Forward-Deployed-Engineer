@@ -26,7 +26,7 @@
 18. Nabeel Qureshi onsite tại Toulouse một năm: “Asana phiên bản chế tạo máy bay”
 19. Tin đồn về chiến dịch tiêu diệt Bin Laden (chưa bao giờ được xác nhận cũng chưa bao giờ bị bác bỏ, theo chú thích của tạp chí *Colossus*)
 20. Trước năm 2016, số lượng FDE tại Palantir đã vượt số engineer truyền thống; chiếm khoảng một nửa tổng số nhân viên
-21. Báo cáo tài chính Palantir — “một loài khác thường”: giá trị hợp đồng Q4/2025 đạt 4,26 tỷ USD, net revenue retention 139%, tiền mặt 7,2 tỷ USD; doanh thu Q1/2026 tăng 85%
+21. Báo cáo tài chính Palantir — “một loài hoàn toàn khác”: giá trị hợp đồng Q4/2025 đạt 4,26 tỷ USD, net revenue retention 139%, tiền mặt 7,2 tỷ USD; doanh thu Q1/2026 tăng 85%
 
 ### Mục 1.3 của Chương 1 (làn sóng FDE, 12 case)
 
@@ -115,7 +115,7 @@
 86. Những năm đầu của Salesforce: giai đoạn đầu tư triển khai, đốt 52 triệu USD để đổi lấy 22 triệu USD doanh thu (a16z)
 87. Canh bạc của Sankar: “value thuộc về chip và bản thể”; dồn phần lớn engineer vào AIP
 
-### Chương 8 (16 case)
+### Chương 8 (25 case)
 
 88. Tổng kết toàn bộ lịch sử khởi nghiệp của Palantir (vòng lặp demo của Cohen, chiến lược hóa của Sankar)
 89. Hai tuần trong phòng bảo mật và cuộc điện thoại “cách này không bền vững, chúng ta xong rồi”

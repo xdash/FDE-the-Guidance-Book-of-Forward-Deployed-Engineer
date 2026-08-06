@@ -47,6 +47,7 @@ Thông tin liên hệ của tác giả:
 
 | Phần | Nội dung |
 | --- | --- |
+| [Lời tựa](00-Loi-tua.md) | Vì sao tác giả viết cuốn sách này |
 | [Chương 1](01-Chuong-1-FDE-troi-day.md) | FDE trỗi dậy |
 | [Chương 2](02-Chuong-2-giai-quyet-dung-van-de.md) | Giải quyết đúng vấn đề |
 | [Chương 3](03-Chuong-3-gianh-duoc-khach-hang.md) | Giành được khách hàng |

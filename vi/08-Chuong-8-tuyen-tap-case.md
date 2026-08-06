@@ -202,7 +202,7 @@ Case cuối cùng đến từ một team startup AI Trung Quốc mà tôi đã t
 
 Công ty N làm AI knowledge base cho enterprise và đang có ba lead khách hàng tiềm năng: một công ty chứng khoán hàng đầu (budget lớn, requirement rộng như vũ trụ), một tập đoàn retail chain cấp khu vực (budget trung bình, pain point cụ thể) và một bệnh viện hạng nhất (influence lớn, data nhạy cảm). Bản năng của sales là lao vào công ty chứng khoán. Nhưng team áp dụng phương pháp của Chương 2 và Chương 3, tiến hành ba lớp kiểm tra cùng due diligence trước khi vào hiện trường: vấn đề của công ty chứng khoán là một “requirement cấp vũ trụ” — ngay cuộc meeting đầu tiên đã muốn bao phủ toàn công ty — nhưng lại không có business owner rõ ràng; pain point của bệnh viện là có thật, nhưng constraint về việc data không được rời domain khiến delivery cycle không thể kiểm soát; CFO của retail group trực tiếp theo sát project, pain point rất cụ thể (“3.000 báo cáo giám sát vận hành cửa hàng, regional manager hoàn toàn không thể đọc hết”), nền tảng data tuy lộn xộn nhưng có thể tiếp cận.
 
-Team chọn retail group — giá trị lighthouse không cao nhất, nhưng vượt qua cả ba bài kiểm tra. Đây chính là kỷ luật của mục 3.1: **xếp lịch theo strategic value và learning value, không theo contract value**.
+Team chọn retail group — giá trị lighthouse không cao nhất, nhưng vượt qua cả ba bài kiểm tra. Đây chính là kỷ luật của mục 3.8: **xếp lịch theo strategic value và learning value, không theo contract value**.
 
 ### Ngày 31 đến ngày 75: Vào hiện trường, shadowing và một “đại project” bị cắt bỏ
 
@@ -220,6 +220,6 @@ Go-live chỉ là điểm bắt đầu. Giai đoạn activation gặp hai trở 
 
 Đàm phán renewal không có gì phải nghi ngờ, nhưng team thực hiện hai việc quan trọng hơn. Thứ nhất, họ chắt lọc những asset được sử dụng lặp đi lặp lại trong lần delivery này: component kết nối data cho ngành retail, framework evaluation của “anomaly signal” và checklist due diligence cho các scenario cửa hàng — playbook đầu tiên cho một scenario đã thành hình. Thứ hai, dùng case của retail group — với sự đồng ý của khách hàng — để mở cánh cửa đến khách hàng thứ hai: bộ phận quản lý channel của một brand FMCG, với scenario có cấu trúc tương đồng. Chu kỳ delivery của project thứ hai ngắn hơn project đầu tiên 40%: bánh đà copy đã quay được vòng đầu tiên.
 
-180 ngày, một team nhỏ, không có tin tức gọi vốn, cũng không có technology mang tính disruption. Nhưng họ đã kiểm chứng kết luận giản dị nhất của toàn bộ cuốn sách: **đúng vấn đề + data thật + dịch vụ sát cánh + kỷ luật chắt lọc = một quả cầu tuyết có thể lăn mãi**.
+180 ngày, một team nhỏ, không có tin tức gọi vốn, cũng không có technology mang tính disruption. Nhưng họ đã kiểm chứng kết luận giản dị nhất của toàn bộ cuốn sách: **cứ đi hết từng bước của methodology này một cách nghiêm túc, quả cầu tuyết của một team nhỏ cũng có thể lăn được**.
 
 Năm nhóm case đã khép lại. Từ các cơ quan tình báo đến những cánh đồng ở Iowa, từ law firm hàng đầu đến chuỗi retail tại Trung Quốc, độ rộng của các scenario càng lớn thì điểm chung của phương pháp luận càng trở nên rõ ràng. Chỉ còn lại hai câu hỏi cuối: một lực lượng như vậy nên giữ ranh giới nào (Lời bạt); và người mới bước vào cuộc chơi cần một action checklist ra sao (Phụ lục).
