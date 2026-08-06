@@ -1,0 +1,71 @@
+<mxfile host="Electron">
+  <diagram id="1xsnJpx6Iy88w9UC70Ml" name="pageWithNumber">
+    <mxGraphModel dx="-349" dy="-79" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <UserObject label="FDE&#xa;生产系统 + 业务结果&#xa;客户结果 + 产品回流" mermaidId="n:FDE" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=3;fillColor=#ef5b2a;strokeColor=#171713;fontColor=#171713;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="FDE&#xa;生产系统 + 业务结果&#xa;客户结果 + 产品回流" id="2">
+          <mxCell parent="1" style="html=1;whiteSpace=wrap;strokeWidth=3;fillColor=#ef5b2a;strokeColor=#171713;fontColor=#171713;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1">
+            <mxGeometry height="93" width="206" x="214" y="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="售前&#xa;方案与演示&#xa;赢单率" mermaidId="n:PRESALE" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#f5f0e6;strokeColor=#706b61;fontColor=#171713;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="售前&#xa;方案与演示&#xa;赢单率" id="3">
+          <mxCell parent="1" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#f5f0e6;strokeColor=#706b61;fontColor=#171713;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1">
+            <mxGeometry height="93" width="140" x="16" y="8" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="传统实施&#xa;按范围完成上线&#xa;验收与工期" mermaidId="n:DELIVERY" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#f5f0e6;strokeColor=#706b61;fontColor=#171713;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="传统实施&#xa;按范围完成上线&#xa;验收与工期" id="4">
+          <mxCell parent="1" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#f5f0e6;strokeColor=#706b61;fontColor=#171713;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1">
+            <mxGeometry height="93" width="172" x="470" y="8" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="咨询顾问&#xa;诊断与路线图&#xa;洞察与采纳" mermaidId="n:CONSULTING" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#f5f0e6;strokeColor=#706b61;fontColor=#171713;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="咨询顾问&#xa;诊断与路线图&#xa;洞察与采纳" id="5">
+          <mxCell parent="1" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#f5f0e6;strokeColor=#706b61;fontColor=#171713;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1">
+            <mxGeometry height="93" width="156" x="8" y="151" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="客户成功&#xa;使用与续约&#xa;留存与健康度" mermaidId="n:CS" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#f5f0e6;strokeColor=#706b61;fontColor=#171713;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="客户成功&#xa;使用与续约&#xa;留存与健康度" id="6">
+          <mxCell parent="1" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#f5f0e6;strokeColor=#706b61;fontColor=#171713;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1">
+            <mxGeometry height="93" width="156" x="478" y="151" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:PRESALE-&gt;FDE#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=1;exitY=0.51;entryX=0.1;entryY=0;" mermaidBaseValue="" id="7">
+          <mxCell edge="1" parent="1" source="3" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=1;exitY=0.51;entryX=0.1;entryY=0;" target="2">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="189" y="55" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:CONSULTING-&gt;FDE#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=1;exitY=0.51;entryX=0.1;entryY=1;" mermaidBaseValue="" id="8">
+          <mxCell edge="1" parent="1" source="5" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=1;exitY=0.51;entryX=0.1;entryY=1;" target="2">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="189" y="198" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:FDE-&gt;DELIVERY#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.9;exitY=0;entryX=0;entryY=0.51;" mermaidBaseValue="" id="9">
+          <mxCell edge="1" parent="1" source="2" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.9;exitY=0;entryX=0;entryY=0.51;" target="4">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="445" y="55" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:FDE-&gt;CS#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.9;exitY=1;entryX=0;entryY=0.51;" mermaidBaseValue="" id="10">
+          <mxCell edge="1" parent="1" source="2" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.9;exitY=1;entryX=0;entryY=0.51;" target="6">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="445" y="198" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
