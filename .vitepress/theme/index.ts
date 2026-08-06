@@ -6,6 +6,7 @@ import ChapterBrief from './components/ChapterBrief.vue'
 import RoleMatrix from './components/RoleMatrix.vue'
 import StagePath from './components/StagePath.vue'
 import ValueLoop from './components/ValueLoop.vue'
+import MetricToolkit from './components/MetricToolkit.vue'
 import './styles.css'
 
 export default {
@@ -21,6 +22,7 @@ export default {
     app.component('RoleMatrix', RoleMatrix)
     app.component('StagePath', StagePath)
     app.component('ValueLoop', ValueLoop)
+    app.component('MetricToolkit', MetricToolkit)
   }
 } satisfies Theme
 
