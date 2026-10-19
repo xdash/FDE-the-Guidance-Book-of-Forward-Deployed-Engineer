@@ -2,7 +2,7 @@
 
 范冰 著 · 免费公开全文，欢迎在线阅读与分享
 
-**官网：[fde4.ai](https://fde4.ai)**（手机端适配、大陆访问更快；另有书外持续更新的案例库、生态地图、名录）
+> 🌐 **English translation available:** [English edition →](en/README.md) （社区英文译本 / community translation）
 
 ---
 

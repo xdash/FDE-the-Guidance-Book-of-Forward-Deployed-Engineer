@@ -1,0 +1,29 @@
+# Afterword — The Professional Ethics of the FDE
+
+Every book on methodology must, in its ending, address one question: once you've mastered this method, where is the boundary. And the topic this book has to address is weightier than most methodologies'. Because what the FDE holds in hand isn't ordinary technology — **it's the deepest secrets of the customer's organization, and an ever-growing power to make decisions in people's place.**
+
+The nature of the FDE's work determines what it will see. To deliver well, you have to see the customer's most real operating data — including the ugly parts; you have to map out the organization's power geography — including who's incompetent, who's fallen out of favor; you have to touch the core business processes — including the workarounds that walk the gray zone. The customer opens all of this to you on a plain understanding: you're here to help. This trust is the bedrock of the FDE model, and destroying it takes only one crossing of the line.
+
+I believe the FDE's professional ethics has at least six bottom lines, which I write down to share with all peers.
+
+**First, sovereignty over data belongs to the customer.** Not a single byte of the data you see at the customer's site should appear where it shouldn't — not in AI training data (unless the contract explicitly authorizes it), not in case material (unless the customer agrees in writing), not as talking points at your next job. The principle of minimizing data access isn't only a technical norm, it's professional conduct: don't look at what you don't have to, mask what you can.
+
+**Second, report results honestly, including bad news.** In an outcome-based model, the biggest moral hazard is whitewashing results — packaging "the system went live" as "value was realized," packaging correlation as causation. The value-measurement system of Chapter 6 can be the most honest tool or the most exquisite lie-machine, and the only difference is the human heart. The FDE's foundation is "daring to be tested," so when the test turns up bad results, you must present them with the same attitude.
+
+**Third, don't manufacture dependency, don't peddle fear.** Two hidden evils exist in this industry: one is deliberately building the system as a black box so the customer can never leave you; the other is exaggerating the panic of "you'll die without AI" to close deals. Gartner predicts that by 2028, 70% of enterprises will be forced to abandon forward-deployment-led solutions due to cost and skill hollowing-out — this forecast is an alarm bell for the whole industry. A healthy FDE model should be "finish and leave": knowledge transferred to the customer, capability settled in the customer's team. **Make the customer strong, not addicted.**
+
+**Fourth, take "the people being replaced" seriously.** The system an FDE delivers will, in many scenarios, indeed replace part of some people's work. This book covered a great deal of "change management" technique, but beyond technique is ethics: don't celebrate efficiency in front of the replaced, don't write people into the solution as a "cost line" without a way out, don't play dumb about "whose fate you are changing." The neutrality of technology is a myth; the deployer's choice is reality.
+
+**Fifth, say no to "things the customer asks for but shouldn't be done."** You'll encounter requests that walk the edge of compliance: "help us make employee behavior monitoring even finer," "these data are a bit fuzzy on compliance, but let's connect them first and worry later." The "French waiter" metaphor has its deepest meaning here — true professionalism isn't satisfying the customer's every request, it's daring to guide the customer toward a direction that's genuinely good for him and harmless to the world. The nerve to say no comes from having other customers on your books; so ethics has always been tied to the business model too.
+
+**Sixth, remember that what you represent is "technology" itself.** To many customers, you are the first human face through which they meet AI. Every exaggeration of yours overdraws the whole industry's credit in their eyes; every promise you keep makes a deposit for the whole industry. As AI enters the workings of society ever more deeply, the deployer is the last translator between the technology and human daily life — and the cost of a distorted translation is paid by everyone.
+
+Palantir as a company is itself full of controversy: its history of serving intelligence and military agencies makes many wary of everything about it — including the FDE model. My heavy citation of its methodology in this book does not equal endorsement of all its customer choices. On the contrary, precisely because the domains it serves are so sensitive, the disciplines in its engineering culture around permissions, audit, and minimum need-to-know are all the more worth learning from. **The more capable the deployer, the more they need to write the boundary before the method.**
+
+The FDE is a young profession, and its code of practice has not yet been written by anyone. I hope this book is its first boundary stone.
+
+## Acknowledgments
+
+Thanks to former Palantir employees Bob McGrew, Barry, Ted Mabry, Nabeel Qureshi, and others for their public recollections and writing — you turned a "mysterious company's" methodology into public knowledge; thanks to the hosts of podcasts like YC's Lightcone and Latent Space, whose probing preserved a great deal of firsthand experience; thanks to the research and reporting of a16z, MIT's NANDA lab, The New Stack, and CIO.com; thanks to China's FDE early movers for the reflections they wrote on their websites — because of you, the Chinese-language version of this discussion doesn't have to start from zero.
+
+Thanks to everyone willing to read this far. May the roads you pave all have travelers; and may the road still be there after you've walked it.
