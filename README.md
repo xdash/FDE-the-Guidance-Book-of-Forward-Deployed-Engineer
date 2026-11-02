@@ -6,6 +6,23 @@
 
 ---
 
+## 纸质版已出版
+
+<img src="assets/cover.jpg" align="right" width="220" alt="《前线部署工程师》纸质版封面">
+
+本书纸质版已由**人民邮电出版社（异步图书）**于 2026 年 10 月正式出版（编辑做了大量修正、校对和优化），黄色封面，240 页，适合收藏，也适合安利给同事和合作伙伴。开源版永远免费，微信读书会员搜「FDE」（作者范冰）也能免费读。
+
+- **京东**：https://item.jd.com/10237748982809.html
+- **当当**：https://product.dangdang.com/30119055.html
+- **天猫**：https://detail.tmall.com/item.htm?abbucket=16&id=1092101882413&skuId=6313004570173
+- **豆瓣**：https://book.douban.com/subject/38676682/ （读过觉得还不错，欢迎给个四/五星好评，新书刚上架，每一条真实评价都帮很大）
+
+**作者视频荐书**：《[我又出了本书，现在有点后悔：劝人做 FDE，天打雷劈？](https://youtu.be/9VNfMrF7fgw)》（YouTube）
+
+<br clear="right">
+
+---
+
 ## 关于本书
 
 2025 年夏天，我的朋友圈被同一个数字刷屏：95%。
